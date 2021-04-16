@@ -1,0 +1,22 @@
+{
+  "name": "webserver",
+  "version": "1.0.0",
+  "description": "nodejs-webserver",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iqbalseptyan/webserver.git"
+  },
+  "author": "iqbalseptyan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iqbalseptyan/webserver/issues"
+  },
+  "homepage": "https://github.com/iqbalseptyan/webserver#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
